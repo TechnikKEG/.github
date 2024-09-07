@@ -17,7 +17,7 @@ Learn more about our school: [amorgym.de](https://amorgym.de) | Instagram [@kega
 
 Willkommen auf der offiziellen GitHub-Seite des Technikteams des Karl-Ernst-Gymnasiums Amorbach (KEG). Wir sind ein von Schülern geleitetes Team, das sich auf Event- und Bühnentechnik spezialisiert hat. Unsere Aufgaben umfassen die technische Unterstützung bei Schulveranstaltungen mit Ton-, Licht- und Bildtechnik. Unsere Projekte spannen von Sonderlösungen für interne Infrastruktur bis hin zu Event-relevanten Inhalten.
 Folge uns auf Instagram für mehr Einblicke: @technikteam_kegamorbach.
-Mehr Informationen über unsere Schule: [amorgym.de](https://amorgym.de) | Instagram [@kegamorbach](https://instagram.com/technikteam_kegamorbach)..
+Mehr Informationen über unsere Schule: [amorgym.de](https://amorgym.de) | Instagram [@kegamorbach](https://instagram.com/technikteam_kegamorbach).
 
 ### Eine Auswahl unserer Projekte
 
